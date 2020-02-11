@@ -1,6 +1,8 @@
 # Shadowsocks setup
 A [docker compose](https://docs.docker.com/compose/compose-file/) setup for a [shadowsocks](https://github.com/shadowsocks) server. Designed to provide a fast and easy way to set up secure and private connections for breaking through the Great Firewall of China.
 
+Shadowsocks服务器的（Docker Compose）设置。 旨在提供一种快速简便的方法来建立安全的私人连接，以突破中国的防火墙。
+
 ```yaml
 version: "3.3"
 
